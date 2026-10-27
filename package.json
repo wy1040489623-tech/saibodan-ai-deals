@@ -1,0 +1,10 @@
+{
+  "name": "saibodan-ai-deals",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "赛博鸡蛋每日 AI 免费福利台账（自动更新）",
+  "scripts": {
+    "update": "node scripts/update.mjs"
+  }
+}
