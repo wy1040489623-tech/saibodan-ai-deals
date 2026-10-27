@@ -27,7 +27,7 @@
 curl -s https://raw.githubusercontent.com/wy1040489623-tech/saibodan-ai-deals/main/data/latest.json
 ```
 
-数据每天 08:40（北京时间）自动更新。链接均指向官方活动页；仅作信息汇总，领取条件与截止时间以官方页面为准。
+数据每天 09:10（北京时间）自动更新。链接均指向官方活动页；仅作信息汇总，领取条件与截止时间以官方页面为准。
 
 ## 说明
 

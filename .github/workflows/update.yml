@@ -2,8 +2,8 @@ name: Update daily AI deals
 
 on:
   schedule:
-    # 08:40 Asia/Shanghai (UTC+8) = 00:40 UTC
-    - cron: "40 0 * * *"
+    # 09:10 Asia/Shanghai (UTC+8) = 01:10 UTC
+    - cron: "10 1 * * *"
   workflow_dispatch:
 
 permissions:
