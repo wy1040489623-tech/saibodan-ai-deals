@@ -1,40 +1,32 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-27",
-  "title": "Databricks 平台永久免费，AutoClaw 升版领 5000 万 Tokens【赛博鸡蛋】",
-  "headline": "Databricks 平台永久免费，AutoClaw 升版领 5000 万 Tokens【赛博鸡蛋】",
+  "date": "2026-10-28",
+  "title": "Command Code 额度涨到 100 美元，创业公司免费领 Base44 年度许可【赛博鸡蛋】",
+  "headline": "Command Code 额度涨到 100 美元，创业公司免费领 Base44 年度许可【赛博鸡蛋】",
   "counts": {
-    "new": 6,
+    "new": 1,
     "changed": 1,
     "ended": 1,
-    "listable": 93,
-    "cn": 35,
-    "global": 58
+    "listable": 92,
+    "cn": 36,
+    "global": 56
   },
   "highlights": [
     {
-      "name": "Databricks Free Edition 永久免费版",
-      "platform": "Databricks",
-      "value": "免费使用 Databricks Data + AI 平台（AI 应用与智能体、数据科学与 ML、仪表盘与 Genie）；算力按公平使用额度",
-      "conditions": "注册 Databricks 账号即可使用；官方明确仅限个人使用，条款不允许商业或生产用途；算力与 SQL 仓库规格较小，并受公平使用额度约束",
-      "expires": "官方写明永久免费（perpetually free），未标注截止日",
-      "entry": "https://www.databricks.com/learn/free-edition"
+      "name": "Command Code GOAT 套餐（$10/月含 $80 额度）",
+      "platform": "Command Code",
+      "value": "GOAT 10 美元/月含 100 美元额度（官方标称最高约 100 美元等效用量，含优惠）；Go 1 美元/月含 10 美元额度",
+      "conditions": "价格另加处理费，官方页未写处理费金额；官方页写按月订阅、可随时切换/升级或取消、绝不使用用户代码训练、Taste 仅存本地；Go 档不含 API 访问（对比表把 API 访问标为「除 Go 外所有套餐均可使用」，兼容 OpenAI 与 Anthropic 端点）；额度按模型分配，不同模型可用额度不同；标为免费的模型注明「请求不消耗额度」并受容量或预览期约束（Laguna S 2.1、Beam 1.0 为 while capacity lasts，Glyph Cluster 为 while the stealth preview lasts）；未注册、未实测",
+      "expires": "官方定价页未写套餐促销截止日，也未写免费模型的结束日期",
+      "entry": "https://commandcode.ai/"
     },
     {
-      "name": "AutoClaw 升级 2.2.0 领 5000 积分",
-      "platform": "智谱 AutoClaw",
-      "value": "5000 积分，约合 5000 万 tokens",
-      "conditions": "下载安装 2.2.0 最新版并登录新版；积分自动发放，迁移数据非必须（新旧版可共存）；积分发放后 7 天内有效",
-      "expires": "官方未给活动截止日；积分发放后 7 天内有效",
-      "entry": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration"
-    },
-    {
-      "name": "Powerdrill Bloom 限时 8 折（至 10-31）",
-      "platform": "Powerdrill",
-      "value": "付费档年付 20% off：Pro $13.27/月（首年 $159.20）、Plus $26.60/月（$319.20）、Premium $132.67/月（$1,592.00）",
-      "conditions": "需注册并购买付费档（Pro / Plus / Premium 或 Team Pro）；页面展示的是年付折后价，首年分别为 $159.20 / $319.20 / $1,592.00；免费档不涉及",
-      "expires": "2026-10-31 截止（页面横幅 ends 10/31/2026）",
-      "entry": "https://powerdrill.ai/pricing"
+      "name": "Base44 for Startups 免费年度许可 + 最高 $1,000 额度",
+      "platform": "Base44",
+      "value": "免费年度许可（Pro 价值 $960/年 或 Builder 价值 $480/年）+ 最高 $1,000 Base44 credits",
+      "conditions": "仅限早期创业公司创始人：基金/加速器需在 Select Partners 名单内并验证资格；独立创始人需提交申请，由 Base44 团队审核资格后批准；Select Partner credits 自激活起 6 个月有效",
+      "expires": "官方未给申请截止日；Select Partner credits 自激活起 6 个月有效",
+      "entry": "https://base44.com/solutions/startups"
     }
   ],
   "library": [
@@ -86,7 +78,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "长期政策",
       "entry": "https://platform.deepseek.com/"
     },
@@ -99,7 +91,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "自开通百炼/模型发布/申请通过之日起 90 天内（以较晚者为准）；到期或耗尽后不补发、不延期、不重置",
       "entry": "https://bailian.console.aliyun.com/"
     },
@@ -112,7 +104,7 @@
       "region": "cn",
       "status": "changed",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "卡片显示新用户免费体验 2 周；官方卡片未写统一领取截止日，也未说明积分与体验期限的起算规则。",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -125,7 +117,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "原定 2026-09-30 23:59:59 结束，现已延长，2026-10-01 起继续免费；官方未公布新的结束日，结束时间将提前在官方活动页公告",
       "entry": "https://qoder.cn/"
     },
@@ -138,7 +130,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "Kimi-K3 至 2026-10-25 23:59:59；Kimi-K3.1-Pro 至 2026-11-09 23:59:59；Kimi-K2.8-Preview 至 2026-12-14 23:59:59；deepseek-v4.1-flash 与 -economy 至 2026-12-30 23:59:59；9.9 元起无统一截止日",
       "entry": "https://www.volcengine.com/activity/codingplan"
     },
@@ -268,22 +260,9 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "官方定价页未写通用截止日期；价格与计划可能调整。",
       "entry": "https://claude.ai/"
-    },
-    {
-      "id": "google-student-ai-pro",
-      "name": "学生免费 12 个月 AI Pro（美国）",
-      "platform": "Google",
-      "listName": "Google",
-      "listText": "美区在校生免费试用 12 个月 Google AI Pro（SheerID 验证）；试用不含 YouTube Premium，到期自动转付费",
-      "region": "global",
-      "status": "active",
-      "valueTier": "",
-      "verifiedAt": "2026-10-27",
-      "expires": "官方页未公布领取/兑换截止日；试用到期后自动转常规付费 Google AI 方案（页面未标价格）",
-      "entry": "https://one.google.com/ai-student"
     },
     {
       "id": "gemini-free-tier",
@@ -294,7 +273,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "长期，限速政策可能调整",
       "entry": "https://aistudio.google.com/"
     },
@@ -346,7 +325,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "最长 12 个月有效期，政策以官方定价页为准",
       "entry": "https://chat.mistral.ai/upgrade/student"
     },
@@ -411,7 +390,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "激活后 12 个月",
       "entry": "https://azure.microsoft.com/zh-cn/free/students/"
     },
@@ -424,7 +403,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "长期",
       "entry": "https://cline.bot/"
     },
@@ -450,7 +429,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方定位长期校园项目，变化会在官网公布；个人会员期限未在页面说明，需学校项目确认。",
       "entry": "https://www.capcut.com/newsroom/capcut-creative-campus"
     },
@@ -489,7 +468,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "官方未写截止日",
       "entry": "https://cloud.comfy.org/"
     },
@@ -528,7 +507,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "常设免费档，官方未写截止日",
       "entry": "https://www.cursor.com/"
     },
@@ -541,7 +520,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "当日官方定价页未写 Sonnet 5 的调价时间表或截止日。",
       "entry": "https://console.anthropic.com/"
     },
@@ -554,7 +533,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "AI 资源包自申请成功之日起 6 个月有效；二期（2026-07-01 ~ 2026-12-31）额度表为 Token 10 亿 / 图片 10 万张，但二期两个生图模型 HY-Image-3.0-Plus-4090-Tob-v1.0、HY-Image-v3.0-I2I-ToB-v1.0.1 将于 2026-12-01 0 点下线，接替的 hy-image-v3.5-preview 调用方式与混元生图 3.0 不同、需提前预留适配时间；一期存量报名用户自动补发 9 亿 Token + 9 万张图片额度（自补发之日起 6 个月有效，预计 7 月 1 日分批到账，环境已删除不补）；官方写「如有调整将提前 15 日更新公告」",
       "entry": "https://tcb.cloud.tencent.com/"
     },
@@ -567,7 +546,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方写「即日起开始，结束时间以活动官网通知为准」；优惠券有效期 1 年，自领取之日起算，到期未使用金额作废",
       "entry": "https://university.aliyun.com/"
     },
@@ -580,7 +559,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方卡片未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -606,7 +585,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "试用 30 天，官方未给固定截止日；到期未购买则自动到期，私有仓库的 Secret Protection 与 Code Security 功能关闭",
       "entry": "https://github.com/settings/organizations"
     },
@@ -632,7 +611,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方权益中心页面未写起止日期；以官方页当日展示为准",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -671,7 +650,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "激活后 30 天到期",
       "entry": "https://cloud.cerebras.ai/"
     },
@@ -684,7 +663,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方未写活动截止日；1,000 次调用是按月计算的上限，不是限期活动",
       "entry": "https://dashboard.cohere.com/api-keys"
     },
@@ -762,7 +741,7 @@
       "region": "global",
       "status": "changed",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方定价页未写截止日；免费模型清单随官方调整，引用须当天现查",
       "entry": "https://novita.ai/"
     },
@@ -849,11 +828,11 @@
       "name": "Command Code GOAT 套餐（$10/月含 $80 额度）",
       "platform": "Command Code",
       "listName": "Command Code",
-      "listText": "Command Code：GOAT 每月 10 美元含 80 美元额度（另加处理费），另有 Go 1 美元档与多个免费模型",
+      "listText": "Command Code：GOAT 每月 10 美元含 100 美元额度（另加处理费），另有 Go 1 美元档与多个免费模型",
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方定价页未写套餐促销截止日，也未写免费模型的结束日期",
       "entry": "https://commandcode.ai/"
     },
@@ -866,7 +845,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方公告未写领取截止日与免费额度有效期",
       "entry": "https://aws.amazon.com/free/"
     },
@@ -905,7 +884,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "2026-10-31（官方推文标注「free through Oct 31」）",
       "entry": "https://x.com/WorkBuddy_AI/status/2111404103402430558"
     },
@@ -918,7 +897,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "截止 2026-10-31 23:59（北京时间）",
       "entry": "https://platform.deepseek.com/"
     },
@@ -983,7 +962,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方未写截止日；价格与限额以定价页为准",
       "entry": "https://www.tinyfish.ai/"
     },
@@ -1009,7 +988,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "截止 2026-11-07（官方原文「until November 7」）",
       "entry": "https://fal.ai/flux-3-max"
     },
@@ -1048,7 +1027,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "两边官方都只写限时，未公布截止日（OpenRouter 帖写 Free to use at launch，OpenCode 写 free on OpenCode for a limited time）",
       "entry": "https://openrouter.ai/recursive/flint-v1.0:free"
     },
@@ -1087,22 +1066,9 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28",
       "expires": "官方只写「free to try for a week」，未公布起止日（博客发布于 2026-10-21）",
       "entry": "https://www.baseten.co/blog/the-best-decision-models-in-the-world-mammoth-1-and-elephant-1/"
-    },
-    {
-      "id": "vercel-ai-gateway-baseten-free",
-      "name": "Vercel AI Gateway：Baseten Mammoth-1 / Elephant-1 免费至 10-27",
-      "platform": "Vercel AI Gateway",
-      "listName": "Vercel AI Gateway",
-      "listText": "Vercel AI Gateway 免费调用 Baseten 决策模型 Mammoth-1 / Elephant-1 至 10-27",
-      "region": "global",
-      "status": "active",
-      "valueTier": "",
-      "verifiedAt": "2026-10-26",
-      "expires": "免费访问截止 2026-10-27（页面原文「Free access is available through October 27」）",
-      "entry": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free"
     },
     {
       "id": "xfyun-spark-x26-4b-free",
@@ -1178,7 +1144,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "官方写明永久免费（perpetually free），未标注截止日",
       "entry": "https://www.databricks.com/learn/free-edition"
     },
@@ -1191,7 +1157,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "官方未给申请截止日；Select Partner credits 自激活起 6 个月有效",
       "entry": "https://base44.com/solutions/startups"
     },
@@ -1204,7 +1170,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "2026-10-31 截止（页面横幅 ends 10/31/2026）",
       "entry": "https://powerdrill.ai/pricing"
     },
@@ -1217,7 +1183,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "官方未给活动截止日；积分发放后 7 天内有效",
       "entry": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration"
     },
@@ -1230,7 +1196,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "2026-10-31（活动截止，次日起标准 ID 恢复计费，-free ID 停止服务）",
       "entry": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31"
     },
@@ -1243,13 +1209,26 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28",
       "expires": "长期有效（官方 Free Plan 长期开放，以官方定价页为准）",
       "entry": "https://www.codegpt.co/pricing"
+    },
+    {
+      "id": "shimo-private-deploy-free-5",
+      "name": "石墨办公 私有部署免费版：5 人团队永久免费",
+      "platform": "石墨办公",
+      "listName": "石墨办公",
+      "listText": "石墨办公私有部署免费版：5 人团队永久免费，自备服务器内网部署",
+      "region": "cn",
+      "status": "active",
+      "valueTier": "",
+      "verifiedAt": "2026-10-28",
+      "expires": "首页标注「5 人团队永久免费」，定价页未写截止日期",
+      "entry": "https://shimo.net/pricing"
     }
   ],
-  "source": "https://saibodan.com/data/daily-2026-10-27.json",
+  "source": "https://saibodan.com/data/daily-2026-10-28.json",
   "homepage": "https://saibodan.com",
-  "generatedAt": "2026-10-27T12:39:15.362Z",
+  "generatedAt": "2026-10-28T06:49:05.736Z",
   "license": "CC BY 4.0"
 }

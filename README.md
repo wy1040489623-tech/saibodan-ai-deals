@@ -2,24 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-10-27** · 可用福利 **93** 条
+**今日：2026-10-28** · 可用福利 **92** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-10-27.json](data/2026-10-27.json)
+- 今日数据：[data/2026-10-28.json](data/2026-10-28.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| Databricks | Databricks Free Edition 永久免费版 | 免费使用 Databricks Data + AI 平台（AI 应用与智能体、数据科学与 ML、仪表盘与 Genie）；算力按公平使用额度 | 官方写明永久免费（perpetually free），未标注截止日 |
-| 智谱 AutoClaw | AutoClaw 升级 2.2.0 领 5000 积分 | 5000 积分，约合 5000 万 tokens | 官方未给活动截止日；积分发放后 7 天内有效 |
-| Powerdrill | Powerdrill Bloom 限时 8 折（至 10-31） | 付费档年付 20% off：Pro $13.27/月（首年 $159.20）、Plus $26.60/月（$319.20）、Premium $132.67/月（$1,592.00） | 2026-10-31 截止（页面横幅 ends 10/31/2026） |
+| Command Code | Command Code GOAT 套餐（$10/月含 $80 额度） | GOAT 10 美元/月含 100 美元额度（官方标称最高约 100 美元等效用量，含优惠）；Go 1 美元/月含 10 美元额度 | 官方定价页未写套餐促销截止日，也未写免费模型的结束日期 |
+| Base44 | Base44 for Startups 免费年度许可 + 最高 $1,000 额度 | 免费年度许可（Pro 价值 $960/年 或 Builder 价值 $480/年）+ 最高 $1,000 Base44 credits | 官方未给申请截止日；Select Partner credits 自激活起 6 个月有效 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（93 条可用）。
+见 [DEALS.md](DEALS.md)（92 条可用）。
 
 ## 怎么用
 
