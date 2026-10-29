@@ -2,23 +2,22 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-10-28** · 可用福利 **92** 条
+**今日：2026-10-29** · 可用福利 **86** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-10-28.json](data/2026-10-28.json)
+- 今日数据：[data/2026-10-29.json](data/2026-10-29.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| Command Code | Command Code GOAT 套餐（$10/月含 $80 额度） | GOAT 10 美元/月含 100 美元额度（官方标称最高约 100 美元等效用量，含优惠）；Go 1 美元/月含 10 美元额度 | 官方定价页未写套餐促销截止日，也未写免费模型的结束日期 |
-| Base44 | Base44 for Startups 免费年度许可 + 最高 $1,000 额度 | 免费年度许可（Pro 价值 $960/年 或 Builder 价值 $480/年）+ 最高 $1,000 Base44 credits | 官方未给申请截止日；Select Partner credits 自激活起 6 个月有效 |
+| OpenCode | Go 低价订阅 | Go $10/月、Go Plus $40/月；Gemini 4 Argon 五折后每百万 Token 输入 $2.00、输出 $10.00、缓存读 $0.10，Go 月额度 $30、Go Plus $120，优惠至 2026-11-30；另含 DeepSeek V4.1 Flash 月度额度 $80、Kimi K3 $15、Claude Haiku 5.5 $15 | Beam Free 与 Iceman Contributor Free 均标注 limited time 限时免费但未给具体日期；Gemini 4 Argon 的 50% 折扣有效至 2026 年 11 月 30 日；DeepSeek 零数据保留协议当前有效至 2026 年 10 月 31 日，官方注明按月续签 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（92 条可用）。
+见 [DEALS.md](DEALS.md)（86 条可用）。
 
 ## 怎么用
 
