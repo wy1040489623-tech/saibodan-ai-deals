@@ -1,28 +1,44 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-29",
-  "title": "OpenCode Go 多了一个免费用还不限量的新模型，代价是对话会被拿去训练【赛博鸡蛋】",
-  "headline": "OpenCode Go 多了一个免费用还不限量的新模型，代价是对话会被拿去训练【赛博鸡蛋】",
+  "date": "2026-10-30",
+  "title": "美国军人免费一年 ChatGPT Plus，教师版免到 2028 年【赛博鸡蛋】",
+  "headline": "美国军人免费一年 ChatGPT Plus，教师版免到 2028 年【赛博鸡蛋】",
   "counts": {
-    "new": 0,
-    "changed": 4,
+    "new": 3,
+    "changed": 3,
     "ended": 0,
-    "rawOffers": 114,
-    "rawActive": 93,
-    "families": 105,
-    "familiesActive": 86,
-    "listable": 86,
+    "rawOffers": 118,
+    "rawActive": 97,
+    "families": 109,
+    "familiesActive": 90,
+    "listable": 90,
     "cn": 33,
-    "global": 53
+    "global": 57
   },
   "highlights": [
     {
-      "name": "Go 低价订阅",
-      "platform": "OpenCode",
-      "value": "Go $10/月、Go Plus $40/月；Gemini 4 Argon 五折后每百万 Token 输入 $2.00、输出 $10.00、缓存读 $0.10，Go 月额度 $30、Go Plus $120，优惠至 2026-11-30；另含 DeepSeek V4.1 Flash 月度额度 $80、Kimi K3 $15、Claude Haiku 5.5 $15",
-      "conditions": "需登录 OpenCode Console 订阅 Go 或 Go Plus、填账单信息并复制 API key；Go/Go Plus 仅限单成员 workspace，订阅后不能邀请成员；主要面向国际用户；默认屏蔽对请求数据用于训练的付费端点，可用区域限欧洲与美国，未保存隐私设置的 workspace 对中国请求额外允许 Global；owner/admin 可在隐私设置里为 DeepSeek V4.1 Flash/V4 Pro 选 Global 区域、为 Muse Spark 1.3/1.2 Contributor 开启允许训练端点；入口页 https://opencode.ai/go 写明「Cancel any time.」，可随时取消；Beam Free 标注 limited regions，官方列明在包括中国大陆、香港、澳门、俄罗斯、伊朗在内的部分国家/地区不可用；Iceman Contributor Free 同为限时免费，官方隐私表标注 Yes（prompt 与 completion 用于改进模型）、Not ZDR",
-      "expires": "Beam Free 与 Iceman Contributor Free 均标注 limited time 限时免费但未给具体日期；Gemini 4 Argon 的 50% 折扣有效至 2026 年 11 月 30 日；DeepSeek 零数据保留协议当前有效至 2026 年 10 月 31 日，官方注明按月续签",
-      "entry": "https://opencode.ai/go"
+      "name": "ChatGPT Plus 军人/退伍军人免费一年（美国，ID.me 验证）",
+      "platform": "OpenAI",
+      "value": "一年 ChatGPT Plus 完全免费（领取后一年内不扣费），到期按标准月费续订",
+      "conditions": "仅限美国：现役军人、过去 12 个月内退出现役的退伍/退休人员，或未来 12 个月内将退出现役的现役军人；必须通过 ID.me 完成军人身份验证并授权把结果分享给 OpenAI；只能在符合条件的个人 ChatGPT 账号与个人工作区领取，Enterprise 工作区账号不可领取；当前 Plus 若由移动应用商店计费，需等商店订阅失效后再在网页端领取；每人限领一次，不可转赠、出售或与其他促销叠加；官方要求已有网页端 Plus 的用户在领取前不要取消订阅。",
+      "expires": "官方未写固定截止日，原文为「expires after 1 year from the date claimed」，即自领取日起一年有效；到期后按 ChatGPT Plus 标准月费自动续订，除非取消",
+      "entry": "https://chatgpt.com/veterans-claim"
+    },
+    {
+      "name": "ChatGPT for Teachers 教师版免费（美国 K–12，至 2028 年 6 月）",
+      "platform": "OpenAI",
+      "value": "免费使用 ChatGPT for Teachers 至 2028 年 6 月，含旗舰模型、文件上传与检索、联网搜索与深度研究、语音与生图、记忆、共享项目、ChatGPT Work 等",
+      "conditions": "任职于获认可的美国 K–12 学校或学区，且身份为教师、职员、学校领导或学区管理人员；用学校/学区邮箱在 chatgpt.com/k12-verification 完成教育者验证后，创建新的工作区或加入绑定该学区域名的既有工作区；每个工作区仅限同一学区内已认证的教育者；官方明确「The plan is not for students」，不面向学生；不在资格范围内的用户（含中国用户）无法领取。",
+      "expires": "官方原文「free through June 2028」，即免费至 2028 年 6 月，未写更细的截止时刻；免费期结束后可能推出或调整价格，如调价会按条款提前通知",
+      "entry": "https://chatgpt.com/k12-verification"
+    },
+    {
+      "name": "微信小程序成长计划 AI 资源包",
+      "platform": "腾讯云开发 CloudBase",
+      "value": "混元文生文与文生图的免费额度（二期额度表口径 10 亿 Token / 10 万张图片）+ 6 个月个人版环境或 120 元云开发代金券",
+      "conditions": "面向小程序开发者，报名入口「微信公众平台 -> 行业能力 -> 小程序成长计划」；一个小程序帐号只能参与一次，不支持切换腾讯云账号或云开发环境；报名仅支持选择微信云开发环境（腾讯云环境需先转成微信云开发环境）；AI 资源包仅限微信小程序与云开发服务端（云函数、云托管、云开发控制台）使用，在 AI 工具、Web 端 SDK、第三方 API、直接 HTTP 调用等非允许来源消耗属违规；官方当日口径为在 AI 工具等场景中调用 hy4-preview、hy3、deepseek-v4.1-flash 将从套餐中正常扣除（官方另有《关于“小程序成长计划”新增 hy4-preview、deepseek-v4.1-flash 模型的通知》），套餐充足即可正常使用，非资源点套餐可升级为资源点套餐；代金券自发放之日起 6 个月内有效，仅限云开发产品使用",
+      "expires": "AI 资源包自申请成功之日起 6 个月有效；二期（2026-07-01 ~ 2026-12-31）额度表为 Token 10 亿 / 图片 10 万张，但二期两个生图模型 HY-Image-3.0-Plus-4090-Tob-v1.0、HY-Image-v3.0-I2I-ToB-v1.0.1 将于 2026-12-01 0 点下线，接替的 hy-image-v3.5-preview 调用方式与混元生图 3.0 不同、需提前预留适配时间；一期存量报名用户自动补发 9 亿 Token + 9 万张图片额度（自补发之日起 6 个月有效，预计 7 月 1 日分批到账，环境已删除不补）；官方写「如有调整将提前 15 日更新公告」",
+      "entry": "https://tcb.cloud.tencent.com/"
     }
   ],
   "library": [
@@ -35,7 +51,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "限免清单页面未写统一截止日",
       "entry": "https://platform.stepfun.com/"
     },
@@ -87,7 +103,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30",
       "expires": "自开通百炼/模型发布/申请通过之日起 90 天内（以较晚者为准）；到期或耗尽后不补发、不延期、不重置",
       "entry": "https://bailian.console.aliyun.com/"
     },
@@ -100,7 +116,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "原定 2026-09-30 23:59:59 结束，现已延长，2026-10-01 起继续免费；官方未公布新的结束日，结束时间将提前在官方活动页公告",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -126,7 +142,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "折扣政策以页面为准",
       "entry": "https://cloud.baidu.com/product/codingplan.html"
     },
@@ -139,7 +155,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "券有效期一个月",
       "entry": "https://console.bce.baidu.com/qianfan/overview"
     },
@@ -178,7 +194,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "活动页时效强：热门活动主卡（activityId 16611，链接 cloud.tencent.com/act/pro/double11-202611）当日 HTTP 原文明文 endTime「2026-11-30 23:59:59」；上期登记的采购季活动（activityId 16446，endTime 2026-10-31 23:59:59）已不在页面；上云大礼包（个人专享/全员福利）活动时间「即日起 - 11.30」、规则文本「即日起至2026-11-30 23:59:59」，较上期 10.31 展期；页面倒计时 DOM 在静态 HTML 里仍是 00 天 00 时 00 分（脚本未渲染），不能据此判断活动已结束；部分上云大礼包券位在配置里直接标「活动不可用」，与领券中心多张券标「优惠券已抢完」一致，不能写成还能领；其余活动逐项状态官方页未给，出片前必须重开活动页确认",
       "entry": "https://cloud.tencent.com/act"
     },
@@ -204,7 +220,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "Beam Free 与 Iceman Contributor Free 均标注 limited time 限时免费但未给具体日期；Gemini 4 Argon 的 50% 折扣有效至 2026 年 11 月 30 日；DeepSeek 零数据保留协议当前有效至 2026 年 10 月 31 日，官方注明按月续签",
       "entry": "https://opencode.ai/go"
     },
@@ -373,7 +389,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30",
       "expires": "长期",
       "entry": "https://cline.bot/"
     },
@@ -451,7 +467,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "官方公开页未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -490,7 +506,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "当日官方定价页未写 Sonnet 5 的调价时间表或截止日。",
       "entry": "https://console.anthropic.com/"
     },
@@ -503,7 +519,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30",
       "expires": "AI 资源包自申请成功之日起 6 个月有效；二期（2026-07-01 ~ 2026-12-31）额度表为 Token 10 亿 / 图片 10 万张，但二期两个生图模型 HY-Image-3.0-Plus-4090-Tob-v1.0、HY-Image-v3.0-I2I-ToB-v1.0.1 将于 2026-12-01 0 点下线，接替的 hy-image-v3.5-preview 调用方式与混元生图 3.0 不同、需提前预留适配时间；一期存量报名用户自动补发 9 亿 Token + 9 万张图片额度（自补发之日起 6 个月有效，预计 7 月 1 日分批到账，环境已删除不补）；官方写「如有调整将提前 15 日更新公告」",
       "entry": "https://tcb.cloud.tencent.com/"
     },
@@ -529,7 +545,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "官方卡片未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -542,7 +558,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "官方卡片未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -581,7 +597,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "官方权益中心页面未写起止日期；以官方页当日展示为准",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -594,7 +610,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "官方产品页未写截止日，也未写额度有效期",
       "entry": "https://cloud.tencent.com/product/tokenhub"
     },
@@ -607,7 +623,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "免费资源包有效期 1 年，自开通服务之日起算，1 年内未使用完过期作废；官方未写领取截止日",
       "entry": "https://cloud.tencent.com/product/hunyuan"
     },
@@ -659,7 +675,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-30",
       "expires": "官方页未写促销截止时间；次月起恢复 $22/月",
       "entry": "https://elevenlabs.io/sign-up"
     },
@@ -711,7 +727,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "官方定价页未写截止日；免费模型清单随官方调整，引用须当天现查",
       "entry": "https://novita.ai/"
     },
@@ -737,7 +753,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "永久有效（官方 Free Tier 长期免费）",
       "entry": "https://supermaven.com/"
     },
@@ -750,7 +766,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "官方未写截止日期；每月 1 日重置额度",
       "entry": "https://app.tavily.com/"
     },
@@ -763,7 +779,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "永久有效（$0 forever）",
       "entry": "https://app.orshot.com/"
     },
@@ -776,7 +792,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "2026-11-10",
       "entry": "https://www.scnet.cn/home/subject/maas/index.html"
     },
@@ -828,7 +844,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "赠额自发放日起 3 个月有效；官方写明预览期自 2026 年 10 月开始、持续至 12 月 31 日",
       "entry": "https://www.plaud.ai/"
     },
@@ -854,7 +870,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "2026-10-31（官方推文标注「free through Oct 31」）",
       "entry": "https://x.com/WorkBuddy_AI/status/2111404103402430558"
     },
@@ -906,7 +922,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "无到期日（No expiration），用完为止",
       "entry": "https://deepgram.com/pricing"
     },
@@ -945,7 +961,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30",
       "expires": "截止 2026-11-07（官方原文「until November 7」）",
       "entry": "https://fal.ai/flux-3-max"
     },
@@ -958,9 +974,9 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30",
       "expires": "2026-11-01 23:59（北京时间），10-26 00:00 开始",
-      "entry": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration"
+      "entry": "https://autoclaw.zhipuai.cn/blog/news/M10W4/"
     },
     {
       "id": "qianfan-ernie-free-models",
@@ -971,7 +987,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "官方称计划长期开放，未公布终止日",
       "entry": "https://cloud.baidu.com/news/notice_c7a145b9-5c99-4870-939f-e09ba506aab3"
     },
@@ -984,7 +1000,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30",
       "expires": "两边官方都只写限时，未公布截止日（OpenRouter 帖写 Free to use at launch，OpenCode 写 free on OpenCode for a limited time）",
       "entry": "https://openrouter.ai/recursive/flint-v1.0:free"
     },
@@ -997,7 +1013,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-30",
       "expires": "折扣期 2026-10-21 11:00 ET 至 2026-11-30 23:59 ET；三天不限量档到 2026-10-24 11:00 ET",
       "entry": "https://runway.com/kling-4-terms"
     },
@@ -1143,10 +1159,62 @@
       "verifiedAt": "2026-10-29",
       "expires": "首页标注「5 人团队永久免费」，定价页未写截止日期",
       "entry": "https://shimo.net/pricing"
+    },
+    {
+      "id": "openai-api-credits-benefit",
+      "name": "ChatGPT Pro/Business 每月附赠 API 额度（最高 $500）",
+      "platform": "OpenAI",
+      "listName": "OpenAI",
+      "listText": "ChatGPT Pro 100/200/500 档每月可领等额 API 额度（最高 $500）；需订阅满 7 天，Plus/试用不参与；额度只抵 API 平台，不增加 Codex 用量",
+      "region": "global",
+      "status": "active",
+      "valueTier": "",
+      "verifiedAt": "2026-10-30",
+      "expires": "官方未写截止日；权益可能调整或取消；按月发放，当期有效，不用完不结转",
+      "entry": "https://chatgpt.com/settings/billing"
+    },
+    {
+      "id": "openai-chatgpt-for-teachers",
+      "name": "ChatGPT for Teachers 教师版免费（美国 K–12，至 2028 年 6 月）",
+      "platform": "OpenAI",
+      "listName": "OpenAI",
+      "listText": "美国 K–12 认证教师可免费用教师版 ChatGPT 至 2028 年 6 月（需学校/学区邮箱验证，仅限教育工作者）",
+      "region": "global",
+      "status": "active",
+      "valueTier": "",
+      "verifiedAt": "2026-10-30",
+      "expires": "官方原文「free through June 2028」，即免费至 2028 年 6 月，未写更细的截止时刻；免费期结束后可能推出或调整价格，如调价会按条款提前通知",
+      "entry": "https://chatgpt.com/k12-verification"
+    },
+    {
+      "id": "openai-plus-military-free-year",
+      "name": "ChatGPT Plus 军人/退伍军人免费一年（美国，ID.me 验证）",
+      "platform": "OpenAI",
+      "listName": "OpenAI",
+      "listText": "美国现役/退役军人经 ID.me 验证可免费用一年 ChatGPT Plus（仅限个人账号，限领一次）",
+      "region": "global",
+      "status": "active",
+      "valueTier": "",
+      "verifiedAt": "2026-10-30",
+      "expires": "官方未写固定截止日，原文为「expires after 1 year from the date claimed」，即自领取日起一年有效；到期后按 ChatGPT Plus 标准月费自动续订，除非取消",
+      "entry": "https://chatgpt.com/veterans-claim"
+    },
+    {
+      "id": "google-ai-plus-arab-students",
+      "name": "Google AI Plus 学生免费一年（阿拉伯地区）",
+      "platform": "Google",
+      "listName": "Google",
+      "listText": "阿拉伯地区 18 岁以上在校大学生可免费用 Google AI Plus 一整年（12-31 前上传学生证注册）",
+      "region": "global",
+      "status": "active",
+      "valueTier": "",
+      "verifiedAt": "2026-10-30",
+      "expires": "官方原文只写「register before December 31st」，博文发布于 2026-09-01，即 2026-12-31 前完成注册；免费期为一年，原文未写更细的截止时刻",
+      "entry": "https://gemini.google/students/"
     }
   ],
-  "source": "https://saibodan.com/data/daily-2026-10-29.json",
+  "source": "https://saibodan.com/data/daily-2026-10-30.json",
   "homepage": "https://saibodan.com",
-  "generatedAt": "2026-10-29T07:00:06.668Z",
+  "generatedAt": "2026-10-30T07:02:46.970Z",
   "license": "CC BY 4.0"
 }
