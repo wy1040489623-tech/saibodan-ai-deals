@@ -1,44 +1,36 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-02",
-  "title": "摩尔线程 30 天免费 Coding Plan，每日 100 名；商汤小浣熊每天 300 积分【赛博鸡蛋】",
-  "headline": "摩尔线程 30 天免费 Coding Plan，每日 100 名；商汤小浣熊每天 300 积分【赛博鸡蛋】",
+  "date": "2026-11-03",
+  "title": "华为云码道限时赠积分；阿里千问办公新注册送 2000 积分【赛博鸡蛋】",
+  "headline": "华为云码道限时赠积分；阿里千问办公新注册送 2000 积分【赛博鸡蛋】",
   "counts": {
-    "new": 9,
-    "changed": 2,
-    "ended": 1,
-    "rawOffers": 137,
-    "rawActive": 111,
-    "families": 128,
-    "familiesActive": 106,
-    "listable": 106,
-    "cn": 39,
+    "new": 1,
+    "changed": 0,
+    "ended": 0,
+    "rawOffers": 138,
+    "rawActive": 112,
+    "families": 129,
+    "familiesActive": 107,
+    "listable": 107,
+    "cn": 40,
     "global": 67
   },
   "highlights": [
     {
-      "name": "AI Coding Plan 限时 30 天免费体验（每日限量 100 名）",
-      "platform": "摩尔线程",
-      "value": "30 天免费额度（用量与 Lite Plan 相当），支持 GLM-4.7，可接 Claude Code / Cursor / OpenCode / Cline",
-      "conditions": "在 code.mthreads.com 领取免费体验名额；每日限量 100 名开发者，名额满即止；领取成功之日起 30 天内有效；用量与 Lite Plan 相当；官方页未写是否需要实名认证或绑定支付方式。",
-      "expires": "官方页只写「限时 30 天免费体验」「领取成功之日起 30 天内有效」，未写活动截止日",
-      "entry": "https://code.mthreads.com/"
+      "name": "华为云码道邀请有礼：邀请人与新人各得积分（至 11-15）",
+      "platform": "华为云码道",
+      "value": "邀请人每位有效邀请 1000 积分；被邀请人注册当天合计 5000 积分；单人累计上限 50,000 积分",
+      "conditions": "邀请人须为已注册码道 CodeArts 的国内用户，无需额外报名；使用 Tokens 制套餐的需先免费变更为积分制套餐才能参与；被邀请人须在收到邀请时从未注册使用过码道 CodeArts（含 IDE、插件等）；入口为码道网页版左下角「活动福利」—「推荐码上有礼」，生成专属邀请链接分享，码道 IDE、小程序、插件也可参与；好友通过链接完成注册计一次有效邀请，单用户仅记录 1 次；单人累计上限 50,000 积分；邀请人和被邀请人的积分有效期均为 1 个月（从到账日起），过期清零。",
+      "expires": "2026-11-15 23:59",
+      "entry": "https://activity.huaweicloud.com/codearts_invite.html"
     },
     {
-      "name": "免费版每日 300 积分（¥0 永久）",
-      "platform": "商汤小浣熊",
-      "value": "每日 300 积分（仅标准模型）+ PPT 标准模式全部模板 + 500 MB 存储；个人升级版 ¥29.9/月起",
-      "conditions": "注册账号即可使用免费版，无需付费；日积分每日 0 点重置且不累计，仅限标准模型；升级模型、PPT 创意模式、10 GB 存储与知识库需个人升级版（¥29.9/月起）。",
-      "expires": "官方定价页标「¥ 0 /永久」，未写截止日期",
-      "entry": "https://xiaohuanxiong.com/pricing"
-    },
-    {
-      "name": "每日免费领 3 亿 GLM-5.3-Flash Tokens",
-      "platform": "智谱 ZCode",
-      "value": "每日 3 亿 GLM-5.3-Flash tokens",
-      "conditions": "更新到最新版 ZCode；每天 11:00 UTC 起在应用内领取；使用窗口 15:00 – 01:00 UTC；领取后切到 Global Building 选 GLM-5.3-Flash；官方帖未写活动结束日、单账号领取次数与地区限制。",
-      "expires": "官方帖未写结束日期，口径为「Every day」每日发放",
-      "entry": "https://x.com/zcode_ai"
+      "name": "千问办公 新注册积分与每日登录积分",
+      "platform": "阿里云权益中心",
+      "value": "新注册 2,000 积分 + 每日登录 100 积分",
+      "conditions": "从阿里云权益中心「千问办公」卡片免费体验入口进入（新注册阿里云账号）；官方卡片只写「2,000 新注册积分」「每日登录送 100 积分」，未写有效期、单次上限与使用范围；产品页 aliyun.com/product/qwenwork 当日展示的是企业标准版 ¥198/月/席、企业旗舰版 ¥298/月/席（50席起购）等付费档，未见个人版免费额度细则，个人版权益以登录后为准",
+      "expires": "官方卡片未写截止日",
+      "entry": "https://www.aliyun.com/benefit"
     }
   ],
   "library": [
@@ -103,9 +95,9 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-01",
+      "verifiedAt": "2026-11-03",
       "expires": "原定 2026-09-30 23:59:59 结束，现已延长，2026-10-01 起继续免费；官方未公布新的结束日，结束时间将提前在官方活动页公告",
-      "entry": "https://qoder.cn/"
+      "entry": "https://www.aliyun.com/benefit"
     },
     {
       "id": "ark-coding-plan",
@@ -116,7 +108,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "Kimi-K3 至 2026-10-25 23:59:59；Kimi-K3.1-Pro 至 2026-11-09 23:59:59；Kimi-K2.8-Preview 至 2026-12-14 23:59:59；deepseek-v4.1-flash 与 -economy 至 2026-12-30 23:59:59；9.9 元起无统一截止日",
       "entry": "https://www.volcengine.com/activity/codingplan"
     },
@@ -142,7 +134,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "券有效期一个月",
       "entry": "https://console.bce.baidu.com/qianfan/overview"
     },
@@ -168,8 +160,8 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-01",
-      "expires": "免费名单随上架变化",
+      "verifiedAt": "2026-11-03",
+      "expires": "免费模型长期开放，官方会调整名单",
       "entry": "https://cloud.siliconflow.cn/models"
     },
     {
@@ -220,7 +212,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "按量长期有效；Gemini 4 Argon 5 折至 2026 年 11 月 30 日；各免费模型为 limited-time",
       "entry": "https://opencode.ai/zen"
     },
@@ -246,8 +238,8 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
-      "expires": "长期，限速政策可能调整",
+      "verifiedAt": "2026-11-03",
+      "expires": "官方未写截止日；免费层长期提供，官方调整模型与限速时更新",
       "entry": "https://aistudio.google.com/"
     },
     {
@@ -272,7 +264,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "免费模型名单动态变化",
       "entry": "https://openrouter.ai/models?max_price=0"
     },
@@ -298,7 +290,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "最长 12 个月有效期，政策以官方定价页为准",
       "entry": "https://chat.mistral.ai/upgrade/student"
     },
@@ -441,7 +433,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方公开页未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -519,7 +511,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方卡片未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -532,7 +524,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方卡片未写截止日",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -571,7 +563,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方权益中心页面未写起止日期；以官方页当日展示为准",
       "entry": "https://www.aliyun.com/benefit"
     },
@@ -584,7 +576,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方产品页未写截止日，也未写额度有效期",
       "entry": "https://cloud.tencent.com/product/tokenhub"
     },
@@ -636,7 +628,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "官方定价页未写截止日",
       "entry": "https://platform.moonshot.cn/console/api-keys"
     },
@@ -649,7 +641,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方页未写促销截止时间；次月起恢复 $22/月",
       "entry": "https://elevenlabs.io/sign-up"
     },
@@ -688,7 +680,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "试用 30 天；官方未给统一截止日",
       "entry": "https://app.notion.com/signup"
     },
@@ -701,7 +693,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "官方定价页未写截止日；免费模型清单随官方调整，引用须当天现查",
       "entry": "https://novita.ai/"
     },
@@ -714,7 +706,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "官方未写截止日",
       "entry": "https://build.nvidia.com/"
     },
@@ -753,7 +745,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "永久有效（$0 forever）",
       "entry": "https://app.orshot.com/"
     },
@@ -779,7 +771,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-01",
+      "verifiedAt": "2026-11-03",
       "expires": "官方称完整 Affinity 体验永久免费；官网未标促销截止日期。",
       "entry": "https://www.affinity.studio/get-affinity"
     },
@@ -818,7 +810,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "expires": "赠额自发放日起 3 个月有效；官方写明预览期自 2026 年 10 月开始、持续至 12 月 31 日",
       "entry": "https://www.plaud.ai/"
     },
@@ -857,9 +849,9 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
-      "expires": "测试期间按月发放；官方未写总截止日，也未写未用完是否结转",
-      "entry": "https://discovery.SAGE-ai.org.cn/token-plan/home?tabIndex=0"
+      "verifiedAt": "2026-11-03",
+      "expires": "公测期免费开放，付费档位即将上线",
+      "entry": "https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=0"
     },
     {
       "id": "deepgram-200-free-credit",
@@ -883,7 +875,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "免费一年；活动总截止日官方未写",
       "entry": "https://kiro.dev/students/"
     },
@@ -915,16 +907,16 @@
     },
     {
       "id": "zhipu-autoclaw",
-      "name": "AutoClaw 升级 2.2.0 + 登录，领 1.5 亿 Token",
+      "name": "AutoClaw 升级 2.2.0 领 5000 积分",
       "platform": "智谱 AutoClaw",
       "listName": "智谱 AutoClaw",
-      "listText": "升级到 2.2.0 并登录：1 亿（11-01 前）+ 5,000 万（7 天有效），两项一起领",
+      "listText": "升级到 2.2.0 并登录：5000 积分（约合 5000 万 tokens），积分发放后 7 天内有效",
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "官方未给活动截止日；积分发放后 7 天内有效",
-      "entry": "https://autoclaw.zhipuai.cn/blog/news/M10W4/"
+      "entry": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration"
     },
     {
       "id": "qianfan-ernie-free-models",
@@ -948,7 +940,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "两边官方都只写限时，未公布截止日（OpenRouter 帖写 Free to use at launch，OpenCode 写 free on OpenCode for a limited time）",
       "entry": "https://openrouter.ai/recursive/flint-v1.0:free"
     },
@@ -1013,7 +1005,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "2026-11-30 23:59（北京时间）",
       "entry": "https://www.qiniu.com/ai/free-models/conatus-2026"
     },
@@ -1026,7 +1018,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-31",
+      "verifiedAt": "2026-11-03",
       "expires": "2026-11-15 23:59",
       "entry": "https://activity.huaweicloud.com/codearts_invite.html"
     },
@@ -1039,7 +1031,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "免费期 6 个月，名额 1 万；官方未公布申请截止日",
       "entry": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
     },
@@ -1091,7 +1083,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-03",
       "expires": "首页标注「5 人团队永久免费」，定价页未写截止日期",
       "entry": "https://shimo.net/pricing"
     },
@@ -1104,7 +1096,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "官方未写截止日；权益可能调整或取消；按月发放，当期有效，不用完不结转",
       "entry": "https://chatgpt.com/settings/billing"
     },
@@ -1312,7 +1304,7 @@
       "region": "cn",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "官方定价页标「¥ 0 /永久」，未写截止日期",
       "entry": "https://xiaohuanxiong.com/pricing"
     },
@@ -1351,7 +1343,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "一次性免费额度，官方定价页未写截止日期",
       "entry": "https://reportgpt.app"
     },
@@ -1364,7 +1356,7 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "官方定价页标「$0 forever」，未写截止日期",
       "entry": "https://snill.ai"
     },
@@ -1416,13 +1408,26 @@
       "region": "global",
       "status": "active",
       "valueTier": "",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03",
       "expires": "官方定价页未写起止日期，口径为按月额度（/ mo）",
       "entry": "https://inference.net/pricing"
+    },
+    {
+      "id": "sensetime-sensenova-token-plan-free-beta",
+      "name": "Token Plan 公测期免费（¥0/月，最多 20 个 API Key）",
+      "platform": "商汤日日新",
+      "listName": "商汤日日新",
+      "listText": "商汤日日新 Token Plan 公测免费：12 万积分/5 小时、120 万积分/周，最多 20 个 API Key（当前含 6.8 Flash Lite 与 U1 Fast）",
+      "region": "cn",
+      "status": "active",
+      "valueTier": "",
+      "verifiedAt": "2026-11-03",
+      "expires": "官方标「公测期」「限时放量」，未写具体截止日期",
+      "entry": "https://www.sensenova.cn/token-plan"
     }
   ],
-  "source": "https://saibodan.com/data/daily-2026-11-02.json",
+  "source": "https://saibodan.com/data/daily-2026-11-03.json",
   "homepage": "https://saibodan.com",
-  "generatedAt": "2026-11-02T07:37:30.695Z",
+  "generatedAt": "2026-11-03T07:51:33.938Z",
   "license": "CC BY 4.0"
 }
