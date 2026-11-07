@@ -2,24 +2,24 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-06** · 可用福利 **116** 条
+**今日：2026-11-07** · 可用福利 **120** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-06.json](data/2026-11-06.json)
+- 今日数据：[data/2026-11-07.json](data/2026-11-07.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| 科大讯飞星火 | 星火 X2.6 新用户 10 亿 Tokens 体验额度 | 10 亿 Tokens 体验额度；额度用完后按量付费，当前限时 6 折：输入 0.9 元/百万tokens、输出 3.6 元/百万tokens | 领取截止日与额度有效期官方公开页面未标注；模型广场仅标「限时6折」 |
-| 扣子 Coze | 个人免费版每日登录领 1,500 积分 | 每日登录领 1,500 积分（有效期 1 天）；个人免费版 0 元 | 长期有效（每日登录发放） |
-| VideoGen | VideoGen Model 1 免费额度计划：100 万美元 credits 池（申请制，2026 年底前发放） | 100 万美元额度的免费 AI credits 池，按项目规模与分发计划分配（原文「$1 million in free AI credits.」） | 2026-12-31（官方原文「We plan to distribute credits through the end of 2026.」，即 2026 年底前发完；申请自 2026-10-20 开放） |
+| fal | FLUX 3 Max 免费生成周末：每天 3-5 条 15 秒 720p 视频（至 11-9） | 活动期内每天免费 3-5 条 FLUX 3 Max 视频（15 秒 720p 带声音）；活动后按 $0.0425/秒计费 | 2026-11-09 12:00 PM PST（官方页原文「Free until Monday, November 9 at 12 PM PST」，即北京时间 11-10 04:00） |
+| AWS | AWS 新账号 Free 计划：最高 $200 credits，6 个月 | 最高 $200 credits（$100 立得 + 最多 $100 探索奖励），覆盖 90+ 项服务 | 账号开通后 6 个月（官方原文「The account closes on its own 6 months after you open it or when your credits run out, whichever comes first.」） |
+| 商汤日日新 | Token Plan 公测期免费（¥0/月，最多 20 个 API Key） | Free 档 ¥0/月：通用积分池每 5 小时 12 万积分、每周 120 万积分；Flash-Lite 专属池每 5 小时 6 万积分、每周 60 万积分；最多 20 个 API Key | 官方标「公测期」「限时放量」，未写具体截止日期 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（116 条可用）。
+见 [DEALS.md](DEALS.md)（120 条可用）。
 
 ## 怎么用
 
