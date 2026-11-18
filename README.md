@@ -2,24 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-17** · 可用福利 **146** 条
+**今日：2026-11-18** · 可用福利 **147** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-17.json](data/2026-11-17.json)
+- 今日数据：[data/2026-11-18.json](data/2026-11-18.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| WorkBuddy | WorkBuddy 上线 Hy4 Flash：限时免费试用（每日免费额度） | 限时免费试用 Hy4 Flash；每日免费额度用完后按 credits 计费 | 官方帖只写「Free to try for a limited time」，未写截止日 |
-| OpenAI | ChatGPT for Academic Researchers：5 万个免费 ChatGPT Plus 名额（11-23 开放申请） | 免费使用 ChatGPT Plus（含前沿模型）及使用培训；每个名额覆盖本人与最多 2 位合作者 | 申请 2026-11-23 开放，5 万个名额先到先得，官方未写申请截止日 |
-| 千问 | 千问会员教育计划：学生 / 教师连续 6 个月半价 | 高级套餐 9.9 元/月（原价 19 元/月）、精英套餐 25 元/月（原价 49 元/月），连续 6 个月 | 官方文章未写截止日，优惠为认证后连续 6 个月 |
+| Today AI | Today AI：注册领 3 亿 Tokens＋3 个月 Pro，基础版永久免费 | 注册即领 3 亿 Tokens＋3 个月 Pro，基础版永久免费 | 3 个月 Pro 自注册起算；活动截止日官方未公布 |
+| Ideogram | Ideogram 免费账号每周 30 credits（Google / Apple 注册） | 每周 30 credits（官方文档按列表价 1 美分 = 1 credit 折算） | 官方文档未写截止日，免费额度按周发放 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（146 条可用）。
+见 [DEALS.md](DEALS.md)（147 条可用）。
 
 ## 怎么用
 
