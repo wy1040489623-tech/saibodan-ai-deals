@@ -2,23 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-18** · 可用福利 **147** 条
+**今日：2026-11-19** · 可用福利 **149** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-18.json](data/2026-11-18.json)
+- 今日数据：[data/2026-11-19.json](data/2026-11-19.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| Today AI | Today AI：注册领 3 亿 Tokens＋3 个月 Pro，基础版永久免费 | 注册即领 3 亿 Tokens＋3 个月 Pro，基础版永久免费 | 3 个月 Pro 自注册起算；活动截止日官方未公布 |
-| Ideogram | Ideogram 免费账号每周 30 credits（Google / Apple 注册） | 每周 30 credits（官方文档按列表价 1 美分 = 1 credit 折算） | 官方文档未写截止日，免费额度按周发放 |
+| Krea | Krea 黑色星期五生成式 AI 模型价格优惠（至 11-30） | Seedance 2.5 最高省 75%、Nano Banana Pro 最高省 62%、Kling 4 最高省 45%（官方帖口径）；定价页按档位显示不同折扣 | 2026-11-30（官方帖原文「get it before Nov 30」） |
+| Anthropic | Claude API 代码执行工具：每组织每月 1,550 小时免费 | 每月 1,550 小时免费代码执行 + 与联网搜索/网页抓取同用时不另收费 | 官方文档未写截止日期，按长期有效的额度处理 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（147 条可用）。
+见 [DEALS.md](DEALS.md)（149 条可用）。
 
 ## 怎么用
 
