@@ -2,23 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-20** · 可用福利 **152** 条
+**今日：2026-11-21** · 可用福利 **153** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-20.json](data/2026-11-20.json)
+- 今日数据：[data/2026-11-21.json](data/2026-11-21.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| 移动云 MoMA | 移动云 MoMA 新用户 2500 万 Tokens 免费试用（限时 30 天） | 2500 万 tokens 免费额度，领取后 30 天有效，限流 3000 tokens/min，仅部分自营模型可用 | 2026-12-31（活动期至 12-31；额度确认后 30 天内有效，两者任一先到即失效） |
-| Together AI | Together AI 云服务：Ternary Bonsai 27B 输入输出均免费 | Ternary Bonsai 27B 输入与输出均按 Free 计费，cached 输入同为 Free | 官方未写截止日期，按定价页常设价格执行 |
+| AnkiDecks | AnkiDecks 免费档：每月 4 个 AI 卡组 | 每月 4 个 AI 生成卡组（闪卡/测验/笔记），免信用卡 | 官方页未写截止日期（长期免费档） |
+| Huntr | Huntr AI 简历生成器免费版：不限份数、免费下载 | 免费构建与下载 AI 简历，不限份数、免信用卡 | 官方页未写截止日期（长期免费档） |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（152 条可用）。
+见 [DEALS.md](DEALS.md)（153 条可用）。
 
 ## 怎么用
 
