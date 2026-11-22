@@ -2,23 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-21** · 可用福利 **153** 条
+**今日：2026-11-22** · 可用福利 **158** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-21.json](data/2026-11-21.json)
+- 今日数据：[data/2026-11-22.json](data/2026-11-22.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| AnkiDecks | AnkiDecks 免费档：每月 4 个 AI 卡组 | 每月 4 个 AI 生成卡组（闪卡/测验/笔记），免信用卡 | 官方页未写截止日期（长期免费档） |
-| Huntr | Huntr AI 简历生成器免费版：不限份数、免费下载 | 免费构建与下载 AI 简历，不限份数、免信用卡 | 官方页未写截止日期（长期免费档） |
+| pkgscan.dev | pkgscan.dev 免费档：每月 5 次多引擎扫描（含 AI agent 技能检测） | 每月 5 次多引擎扫描（含 AI agent 技能的 prompt injection / MCP tool poisoning 检测），免费档 $0 | 官方未写截止日；每月 5 次配额按 UTC 自然月重置 |
+| Otter.ai | Otter.ai Basic 免费档：每月 300 分钟转写 | 每月 300 分钟转写额度（Basic 档标 Free） | 官方未写截止日期（常设免费档） |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（153 条可用）。
+见 [DEALS.md](DEALS.md)（158 条可用）。
 
 ## 怎么用
 
