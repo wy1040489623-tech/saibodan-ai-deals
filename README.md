@@ -2,23 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-23** · 可用福利 **163** 条
+**今日：2026-11-24** · 可用福利 **166** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-23.json](data/2026-11-23.json)
+- 今日数据：[data/2026-11-24.json](data/2026-11-24.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| OpenAI | OpenAI Responses API background 模式：2 小时窗口省 30%、8 小时省 40% | 2 小时窗口较 Standard 省 30%，8 小时窗口省 40%（模型 token 单价） | 官方页未写截止日期，为现行计价档位 |
-| 腾讯云 CodeBuddy | 腾讯 CodeBuddy 体验版：每月 500 积分免费 | 每月 500 积分 + 每月 5,000 次代码补全（当前限免无限次） | 官方未写截止日期（常设免费档）；页面标「限免」的放宽项未写截止日 |
+| Jasper AI | Jasper AI Pro 套餐 7 天免费试用 | Pro 档 7 天免费试用（含 1 席位、Canvas、2 Brand Voice、5 Knowledge 资产、3 Audiences） | 试用期 7 天（常设政策，无固定截止日） |
+| EKHOS AI | EKHOS AI 免费档：每天 30 分钟本地转写 | 每天 30 分钟免费转写（本地处理），Premium $12/月不限量 | 免费档按天发放，官方未写截止日期 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（163 条可用）。
+见 [DEALS.md](DEALS.md)（166 条可用）。
 
 ## 怎么用
 
