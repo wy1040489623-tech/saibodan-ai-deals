@@ -2,23 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-25** · 可用福利 **170** 条
+**今日：2026-11-26** · 可用福利 **171** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-25.json](data/2026-11-25.json)
+- 今日数据：[data/2026-11-26.json](data/2026-11-26.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| Google | Google AI Pro / Ultra 每月附赠 Google Cloud 额度，可在 AI Studio 领取 | Google AI Pro / Ultra 订阅每月附赠一份 Google Cloud（Gemini API）额度，档位越高每月越多，可抵付费模型与超额用量；每笔 12 个月有效、可累积 | 官方未给截止日；额度按订阅每月发放，每笔自发放起 12 个月有效、不用完可累积 |
-| Zoom | Zoom AI Launchpad：AI 初创最高领 15 万美元 Zoom AI Services 额度 | 三档 Zoom AI Services API credits：Launch $5,000、Scale $50,000、Propel $150,000，另含技术答疑、工程支持与联合营销 | 官方未给申请截止日，按滚动审核、名额有限；credits 自发放最长可用 12 个月（官方原文 Credits are available for up to 12 months.） |
+| Cald.ai | Cald.ai 免费档：含 100 分钟 AI 电话外呼 | 100 分钟 AI 电话外呼额度（免费起步档） | 官方未写截止日，为常设免费档 |
+| fal.ai | fal Seedance 2.5 免费周末（顺延至 11-24 23:59 PST） | 5 条免费 Seedance 2.5 视频（每条 10 秒 480p）；用完后 $0.0214/1,000 video tokens，无订阅 | 原「免费周末」时间窗（2026-11-21 09:00 PST 至 2026-11-24 23:59 PST）已过；现行页面未写整体截止日，按「账号创建后 7 天内登录 + 绑卡核验」发放 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（170 条可用）。
+见 [DEALS.md](DEALS.md)（171 条可用）。
 
 ## 怎么用
 
