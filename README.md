@@ -2,23 +2,23 @@
 
 > 每天核验、每天更新的 AI 免费福利台账。只收录公开可领的免费额度、试用、折扣与活动，链接直达官方页面。
 
-**今日：2026-11-27** · 可用福利 **173** 条
+**今日：2026-11-28** · 可用福利 **172** 条
 
 - 网站：https://saibodan.com
 - RSS 订阅：https://saibodan.com/rss/
 - 最新数据：[data/latest.json](data/latest.json)
-- 今日数据：[data/2026-11-27.json](data/2026-11-27.json)
+- 今日数据：[data/2026-11-28.json](data/2026-11-28.json)
 
 ## 今日重点
 
 | 平台 | 福利 | 能拿到 | 截止 |
 | :-- | :-- | :-- | :-- |
-| LG AI Research | LG AI Research：K-EXAONE 2.5 API 免费开放（托管 API，申请 Key 即用） | K-EXAONE 2.5（750B）托管 API 免费调用，按每日速率限制 | 官方发布稿与平台文档均未写免费截止日，文档口径为「This service is currently available free of charge」 |
-| WorkBuddy | WorkBuddy 黑五：Pro 年付省 20% 并送首月 1,000 Credits（11-25 至 12-04） | Pro 年付订阅省 20%，另送首月 1,000 credits | 2026-12-04 23:59:59（北京时间，官方帖原文「Offer runs Nov 25–Dec 4 at 11:59:59 PM Beijing time」） |
+| 武汉白鹿 | 武汉白鹿（BaiLu）：免费开放平台，含 bailu-2.8 / 2.9-preview 与多模态能力 | 免费开放 bailu-2.8（对标 Opus 5）/ bailu-2.9-preview（对标 Fable 5.1）API 及生图、生视频、音乐、声音克隆能力 | 开放测试期持续有效，具体额度随平台规则调整 |
+| DeepAI | DeepAI Code：免费桌面端 AI 编程助手（12 款模型不限量 + 每日 250 Theos） | 12 款模型不限量免费使用 + 免费账号每日最高 250 Theos 用于 16 款前沿模型（如 Claude Fable 5.2 约 20 Theos/次、GPT-6 Astra 约 50 Theos/次） | 长期有效（官方未给截止日）；每日 250 Theos 自上次发放起 24 小时刷新，未使用不结转 |
 
 ## 全部福利
 
-见 [DEALS.md](DEALS.md)（173 条可用）。
+见 [DEALS.md](DEALS.md)（172 条可用）。
 
 ## 怎么用
 
